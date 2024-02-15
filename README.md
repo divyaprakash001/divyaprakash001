@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyaprakash001
 - 👀 I’m interested in ... tech
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... Django framework with React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... divyaprakashara09@gmail.com
 
