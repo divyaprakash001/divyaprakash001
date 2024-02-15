@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ... Django framework with React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... divyaprakashara09@gmail.com
-
+A new Project.. https://divyaprakash001.github.io/Tour_And_Travel_Website.github.io/
 <!---
 divyaprakash001/divyaprakash001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  
-A new Project.. https://divyaprakash001.github.io/Tour_And_Travel_Website.github.io/
 --->
