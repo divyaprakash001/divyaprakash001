@@ -5,8 +5,8 @@ Checkout My Personal Project :- https://divyaprakash001.github.io/Divine_Technol
 👋 Hi there! I'm a Full Stack Developer with a passion for creating dynamic and user-friendly web applications. I specialize in Django and have a solid foundation in both front-end and back-end technologies.
 
 Skills
-Languages: Python, JavaScript, HTML, CSS
-Frameworks: Django, jQuery
+Languages: Python, JavaScript, HTML, CSS, Java, 
+Frameworks: Django, jQuery, ReactJs, Django Rest Framework,
 Styling: Bootstrap, Tailwind CSS
 Databases: MySQL, PostgreSQL
 Deployment: Linode
