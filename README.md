@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @divyaprakash001<br>👀 I’m interested in ... tech<br>🌱 I’m currently learning ... Django framework with React<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ... divyaprakashara09@gmail.com<br>
-Checkout My Personal Project :- https://divyaprakash001.github.io/Divine_Technologies.github.io/
+Checkout My Personal Project :- https://divine-technologies.vercel.app/
 
 👋 Hi there! I'm a Full Stack Developer with a passion for creating dynamic and user-friendly web applications. I specialize in Django and have a solid foundation in both front-end and back-end technologies.
 
