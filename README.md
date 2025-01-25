@@ -4,7 +4,7 @@ Checkout this Project :- https://divine-technologies.vercel.app/ <br>
 Checkout Aaranya Edtech project :- https://aaranyaedtech.vercel.app/  <br>
 checkout currency convertor app :- https://currency-convertor-divya.vercel.app/  <br>
 checkout yourtask app :- https://yourtask-alpha.vercel.app/  <br>
-checkout random password generator app :- https://random-password-generators.vercel.app/  <br>
+checkout random password generator app :- [https://random-password-generators.vercel.app/](https://randompasswordgenerator-green.vercel.app/)  <br>
 
 👋 Hi there! I'm a Full Stack Developer with a passion for creating dynamic and user-friendly web applications. I specialize in Django and have a solid foundation in both front-end and back-end technologies.
 
